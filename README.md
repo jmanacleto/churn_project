@@ -7,7 +7,7 @@ Este é um projeto de previsão de churn, onde utilizamos técnicas de aprendiza
 - Matplotlib
 - Scikit-learn
 - TensorFlow
-
+- Seaborn
 ## Arquivo do Projeto
 O arquivo utilizado no projeto é train_churn.csv, que contém os dados dos clientes.
 
