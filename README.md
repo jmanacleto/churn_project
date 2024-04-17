@@ -2,12 +2,13 @@
 Este é um projeto de previsão de churn, onde utilizamos técnicas de aprendizado de máquina para prever a probabilidade de clientes cancelarem seus serviços. O conjunto de dados utilizado neste projeto contém informações sobre clientes de uma empresa e se eles cancelaram o serviço (churn) ou não.
 
 ## Bibliotecas Utilizadas
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-TensorFlow
-Arquivo do Projeto
+-Pandas
+-NumPy
+-Matplotlib
+-Scikit-learn
+-TensorFlow
+
+## Arquivo do Projeto
 O arquivo utilizado no projeto é train_churn.csv, que contém os dados dos clientes.
 
 ## Preparação e Análise do Dataset
